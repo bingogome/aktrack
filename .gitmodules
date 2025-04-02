@@ -1,0 +1,18 @@
+[submodule "aktrack-ros"]
+	path = aktrack-ros
+	url = git@github.com:bingogome/aktrack-ros.git
+[submodule "aktrack-data"]
+	path = aktrack-data
+	url = git@github.com:bingogome/aktrack-data.git
+[submodule "aktrack-goggle"]
+	path = aktrack-goggle
+	url = git@github.com:bingogome/aktrack-goggle.git
+[submodule "aktrack-screen"]
+	path = aktrack-screen
+	url = git@github.com:bingogome/aktrack-screen.git
+[submodule "aktrack-slicer"]
+	path = aktrack-slicer
+	url = git@github.com:bingogome/aktrack-slicer.git
+[submodule "aktrack-matlab"]
+	path = aktrack-matlab
+	url = git@github.com:bingogome/aktrack-matlab.git
